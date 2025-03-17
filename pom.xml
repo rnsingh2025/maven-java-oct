@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>yas Releases Nexus Repository</name>
-	      <url>http://107.23.132.54:8081/repository/yas-maven-release/</url>
+	      <url>http://16.170.37.226:8081/repository/testc-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>yas Snapshot Nexus Repository </name>
-	      <url>http://107.23.132.54:8081/repository/yas-maven-t/</url>
+	      <url>http://16.170.37.226:8081/repository/testc-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
